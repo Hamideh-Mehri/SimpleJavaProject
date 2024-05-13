@@ -1,3 +1,4 @@
+#sample git practice
 package SimpleJavaProject;
 
 public class App {
